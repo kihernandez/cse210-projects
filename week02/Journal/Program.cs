@@ -1,3 +1,5 @@
+
+// To exceed requirements i added the ability to improve the process of saving and loading to save as a .csv file.
 using System;
 
 namespace JournalProgram
