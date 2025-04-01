@@ -1,3 +1,5 @@
+// Added the ability to randomly select a scripture from the list of scriptures
+
 using System;
 using System.Data.Common;
 namespace ScriptureMemorizer
