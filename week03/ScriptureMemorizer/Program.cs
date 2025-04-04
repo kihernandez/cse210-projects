@@ -30,7 +30,8 @@ namespace ScriptureMemorizer
                 {
                     if (!selectedScripture.HideWord())
                     {
-                        Console.Clear(); Console.WriteLine("Great job! you have memorized the scripture.");
+                        Console.Clear(); 
+                        Console.WriteLine("Great job! you have memorized the scripture.");
                         Console.WriteLine(selectedScripture.GetText());
                         break;
                     }
